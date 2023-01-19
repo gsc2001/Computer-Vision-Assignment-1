@@ -8,13 +8,16 @@ The goal of the assignment is to familiarize you to the process of camera calibr
 Please raise doubts on the appropriate assignment thread on Moodle.
 
 # Instructions
+- Submit a report explaining your experiments and results achieved. Alternatively, you can also explain this as a markdown inside jupyter notebook only. 
 - Follow the directory structure as shown below: 
   ```
   ├── src           
         ├── Assignment01.ipynb
-  ├── images //your images
+        └── Report.pdf (if applicable)
+  ├── images // our images
+  ├── results // your results
   └── README.md
   ```
-- `src` will contain the Jupyter notebook(s) used for the assignment.
-- `images` will contain images used for the questions.
+- `src` will contain the Jupyter notebook used for the assignment.
+- `images` Images given.
 - **Make sure you run your Jupyter notebook before committing, to save all outputs.**
